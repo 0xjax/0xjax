@@ -1,16 +1,13 @@
-## Hi there 👋
+## 0xjax
+Full-Stack Developer | AI & Rust Enthusiast
 
-<!--
-**0xjax/0xjax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently Working On
+Ink Dev: Modern full-stack financial trading platform (private)
 
-Here are some ideas to get you started:
+### Personal Projects
+- [Claude Tools](https://github.com/0xjax/claude-tools): Claude Code utilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 0xjaxdev@gmail.com
+
+---
+// jax: lawful
